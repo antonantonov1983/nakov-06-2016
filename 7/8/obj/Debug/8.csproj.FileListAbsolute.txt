@@ -1,0 +1,6 @@
+c:\Users\Antonov\documents\visual studio 2013\Projects\7\8\bin\Debug\8.exe.config
+c:\Users\Antonov\documents\visual studio 2013\Projects\7\8\bin\Debug\8.exe
+c:\Users\Antonov\documents\visual studio 2013\Projects\7\8\bin\Debug\8.pdb
+c:\Users\Antonov\documents\visual studio 2013\Projects\7\8\obj\Debug\8.csprojResolveAssemblyReference.cache
+c:\Users\Antonov\documents\visual studio 2013\Projects\7\8\obj\Debug\8.exe
+c:\Users\Antonov\documents\visual studio 2013\Projects\7\8\obj\Debug\8.pdb

@@ -1,0 +1,5 @@
+c:\Users\Antonov\documents\visual studio 2013\Projects\7\9\bin\Debug\9.exe.config
+c:\Users\Antonov\documents\visual studio 2013\Projects\7\9\bin\Debug\9.exe
+c:\Users\Antonov\documents\visual studio 2013\Projects\7\9\bin\Debug\9.pdb
+c:\Users\Antonov\documents\visual studio 2013\Projects\7\9\obj\Debug\9.exe
+c:\Users\Antonov\documents\visual studio 2013\Projects\7\9\obj\Debug\9.pdb
